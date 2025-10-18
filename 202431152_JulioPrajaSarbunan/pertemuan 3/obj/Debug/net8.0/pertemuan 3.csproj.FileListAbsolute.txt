@@ -1,0 +1,14 @@
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pertemuan 3\bin\Debug\net8.0\pertemuan 3.exe
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pertemuan 3\bin\Debug\net8.0\pertemuan 3.deps.json
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pertemuan 3\bin\Debug\net8.0\pertemuan 3.runtimeconfig.json
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pertemuan 3\bin\Debug\net8.0\pertemuan 3.dll
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pertemuan 3\bin\Debug\net8.0\pertemuan 3.pdb
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pertemuan 3\obj\Debug\net8.0\pertemuan 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pertemuan 3\obj\Debug\net8.0\pertemuan 3.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pertemuan 3\obj\Debug\net8.0\pertemuan 3.AssemblyInfo.cs
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pertemuan 3\obj\Debug\net8.0\pertemuan 3.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pertemuan 3\obj\Debug\net8.0\pertemuan 3.dll
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pertemuan 3\obj\Debug\net8.0\refint\pertemuan 3.dll
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pertemuan 3\obj\Debug\net8.0\pertemuan 3.pdb
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pertemuan 3\obj\Debug\net8.0\pertemuan 3.genruntimeconfig.cache
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pertemuan 3\obj\Debug\net8.0\ref\pertemuan 3.dll
