@@ -1,0 +1,14 @@
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pert5\bin\Debug\net8.0\pert5.exe
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pert5\bin\Debug\net8.0\pert5.deps.json
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pert5\bin\Debug\net8.0\pert5.runtimeconfig.json
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pert5\bin\Debug\net8.0\pert5.dll
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pert5\bin\Debug\net8.0\pert5.pdb
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pert5\obj\Debug\net8.0\pert5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pert5\obj\Debug\net8.0\pert5.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pert5\obj\Debug\net8.0\pert5.AssemblyInfo.cs
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pert5\obj\Debug\net8.0\pert5.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pert5\obj\Debug\net8.0\pert5.dll
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pert5\obj\Debug\net8.0\refint\pert5.dll
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pert5\obj\Debug\net8.0\pert5.pdb
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pert5\obj\Debug\net8.0\pert5.genruntimeconfig.cache
+C:\Users\PRAKTIKAN - 23\Documents\202431152_JulioPrajaSarbunan\pert5\obj\Debug\net8.0\ref\pert5.dll
